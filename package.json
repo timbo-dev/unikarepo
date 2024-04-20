@@ -13,7 +13,7 @@
     }
   ],
   "scripts": {
-    "git:prepare": "scripts/commit/init.sh"
+    "git:prepare": "scripts/init.sh"
   },
   "repository": {
     "type": "git",

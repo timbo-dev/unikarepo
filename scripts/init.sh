@@ -3,7 +3,7 @@
 init() {
     unikaConfig="[alias]\n\tunikamerge = \"!./.git/merge.sh\"\n\tunikainit = \"!./.git/init.sh\"\n\tunikaflow = \"!./.git/flow.sh\""
 
-    scriptsDir="./scripts/commit"
+    scriptsDir="./scripts"
 
     mergeSh="$scriptsDir/merge.sh"
     flowSh="$scriptsDir/flow.sh"
