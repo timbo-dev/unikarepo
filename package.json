@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "unikarepo",
+  "version": "0.1.0",
+  "description": "The Unikarepo monorepo.",
+  "author": "Timbo",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
