@@ -12,6 +12,9 @@
       "url": "https://timbo.me"
     }
   ],
+  "scripts": {
+    "git:prepare": "scripts/commit/init.sh"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/timbo-dev/unikarepo"
