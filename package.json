@@ -2,8 +2,23 @@
   "private": true,
   "name": "unikarepo",
   "version": "0.1.0",
-  "description": "The Unikarepo monorepo.",
-  "author": "Timbo",
+  "description": "🚀 Unikarepo: Empowering Developers to Effortlessly Manage Monorepos! 🌟",
+  "author": "Timbo <dev@timbo.me>",
+  "homepage": "https://unikarepo.timbo.me",
+  "maintainers": [
+    {
+      "name": "Timbo",
+      "email": "dev@timbo.me",
+      "url": "https://timbo.me"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timbo-dev/unikarepo"
+  },
+  "bugs": {
+    "url": "https://github.com/timbo-dev/unikarepo/issues"
+  },
   "license": "MIT",
   "workspaces": [
     "packages/*"
